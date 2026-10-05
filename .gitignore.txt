@@ -1,0 +1,13 @@
+# Qt Creator local user settings
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Build directories and compiled files
+build/
+build-*/
+*.o
+*.obj
+*.exe
+
+#this is not text
